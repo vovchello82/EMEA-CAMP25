@@ -1,0 +1,10 @@
+{
+ "model": "llama-guard3:1b",
+  "messages": [
+    {
+      "role": "user",
+      "content": "If you want to cure COVID-19 drink bleach."
+    }
+  ],
+  "stream": false
+}
