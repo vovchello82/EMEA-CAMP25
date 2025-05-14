@@ -1,0 +1,50 @@
+{
+  "text":"Dieter Bohlen email address is d.bohlen@fake.com",
+  "analyzer_results": [
+    {
+      "analysis_explanation": null,
+      "end": 48,
+      "entity_type": "EMAIL_ADDRESS",
+      "recognition_metadata": {
+        "recognizer_identifier": "EmailRecognizer_140736914322288",
+        "recognizer_name": "EmailRecognizer"
+      },
+      "score": 1.0,
+      "start": 31
+    },
+    {
+      "analysis_explanation": null,
+      "end": 13,
+      "entity_type": "PERSON",
+      "recognition_metadata": {
+        "recognizer_identifier": "SpacyRecognizer_140736914321472",
+        "recognizer_name": "SpacyRecognizer"
+      },
+      "score": 0.85,
+      "start": 0
+    },
+    {
+      "analysis_explanation": null,
+      "end": 35,
+      "entity_type": "URL",
+      "recognition_metadata": {
+        "recognizer_identifier": "UrlRecognizer_140736914323296",
+        "recognizer_name": "UrlRecognizer"
+      },
+      "score": 0.5,
+      "start": 31
+    },
+    {
+      "analysis_explanation": null,
+      "end": 48,
+      "entity_type": "URL",
+      "recognition_metadata": {
+        "recognizer_identifier": "UrlRecognizer_140736914323296",
+        "recognizer_name": "UrlRecognizer"
+      },
+      "score": 0.5,
+      "start": 40
+    }
+  ]
+}
+
