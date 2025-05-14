@@ -1,6 +1,6 @@
-The docker-compose file starts two components 
-* presidio-analyzer avaiable on the port 5002
-* residio-anonymizer listening on port 5001
+The docker-compose file starts two services
+* presidio-analyzer is avaiable on the port 5002
+* residio-anonymizer is listening on port 5001
 
 To start it execute the following command
 ```

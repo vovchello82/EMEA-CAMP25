@@ -1,0 +1,9 @@
+"model": "llama-guard3:1b",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Dieter Bolhen adress is Example Str. 10, Example-City"
+    }
+  ],
+  "stream": false
+}'

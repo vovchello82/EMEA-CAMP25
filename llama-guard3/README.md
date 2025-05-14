@@ -1,3 +1,5 @@
+## Requirements
+### Ollama 
 Steps to start the Llama-Guard3 locally
 * install ollama locally https://ollama.com
 * start ollama ```ollama serve ```
